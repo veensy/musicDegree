@@ -1,25 +1,25 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Lastposts from "./COMPONENTS/Lastposts";
+import Artists from "./COMPONENTS/Artists";
+import Events from "./COMPONENTS/Events";
+import Sheets from "./COMPONENTS/Sheets";
+import Search from "./COMPONENTS/Search";
+import NewSheet from "./COMPONENTS/NewSheet";
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div className="body">
+        <Switch>
+          
+          <Route exact path="/search" component={Search} />
+          <Route exact path="/newsheet" component={NewSheet} />
+          <Route exact path="/" component={Lastposts} />
+          <Route exact path="/artists" component={Artists} />
+          <Route exact path="/events" component={Events} />
+          <Route exact path="/sheets" component={Sheets} />
+        </Switch>
       </div>
     );
   }
