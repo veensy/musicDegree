@@ -1,17 +1,17 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import calendar from "../img/calendar.svg";
-import microphone from "../img/microphone.svg";
-import stage from "../img/stage.svg";
-import notes from "../img/notes.svg";
+import Calendar from "../img/calendar";
+import Microphone from "../img/microphone";
+import Stage from "../img/stage";
+import Notes from "../img/notes";
 import Nav from "react-bootstrap/Nav";
 import App from "../App";
 
 export class LeftMenu extends Component {
   render() {
     return (
-      <div className="left__menu row">
-        <div className="col-2 bg-dark ">
+      <div className="left__menu row  ">
+        <div className="col-2 bg-dark pr-2">
           <div className="mt-3 ml-3">
             <b className="text-muted">Library</b>
           </div>
@@ -20,12 +20,8 @@ export class LeftMenu extends Component {
               <Nav.Item>
                 <Nav.Link href="/" className="link__leftmenu">
                   <Link to={"/"} className="d-flex flex-row">
-                    <div>
-                      <img
-                        src={calendar}
-                        className="icon__label mr-2"
-                        alt="calendar"
-                      />
+                    <div className="icon__label mr-2">
+                      <Calendar width={25} />
                     </div>
                     <div>Recently Added</div>
                   </Link>
@@ -34,12 +30,8 @@ export class LeftMenu extends Component {
               <Nav.Item>
                 <Nav.Link eventKey="/artists" className="link__leftmenu">
                   <Link to={"/artists"} className="d-flex flex-row">
-                    <div>
-                      <img
-                        src={microphone}
-                        className="icon__label mr-2"
-                        alt="microphone"
-                      />
+                    <div className="icon__label mr-2">
+                      <Microphone width={25} />
                     </div>
                     <div>Artists</div>
                   </Link>
@@ -48,12 +40,8 @@ export class LeftMenu extends Component {
               <Nav.Item>
                 <Nav.Link eventKey="/events" className="link__leftmenu">
                   <Link to={"/events"} className="d-flex flex-row">
-                    <div>
-                      <img
-                        src={stage}
-                        className="icon__label mr-2"
-                        alt="stage"
-                      />
+                    <div className="icon__label mr-2">
+                      <Stage width={25} />
                     </div>
                     <div>Events</div>
                   </Link>
@@ -62,12 +50,8 @@ export class LeftMenu extends Component {
               <Nav.Item>
                 <Nav.Link eventKey="/sheets" className="link__leftmenu">
                   <Link to={"/sheets"} className="d-flex flex-row">
-                    <div>
-                      <img
-                        src={notes}
-                        className="icon__label mr-2"
-                        alt="notes"
-                      />
+                    <div className="icon__label mr-2">
+                      <Notes width={25} />
                     </div>
                     <div>Sheets</div>
                   </Link>
@@ -76,7 +60,7 @@ export class LeftMenu extends Component {
             </Nav>
           </div>
         </div>
-        <div>
+        <div className="col-10">
           <App />
         </div>
       </div>

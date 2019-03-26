@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import {  Route, Switch } from "react-router-dom";
 import Lastposts from "./COMPONENTS/Lastposts";
 import Artists from "./COMPONENTS/Artists";
 import Events from "./COMPONENTS/Events";
@@ -10,7 +10,7 @@ import NewSheet from "./COMPONENTS/NewSheet";
 class App extends Component {
   render() {
     return (
-      <div className="body">
+      <div>
         <Switch>
           
           <Route exact path="/search" component={Search} />
