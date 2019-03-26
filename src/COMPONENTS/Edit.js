@@ -167,6 +167,9 @@ export class Edit extends Component {
       }
     );
   };
+  addInput =(value)=>{
+    this.props.action(value)
+  }
   render() {
     //console.log(this.state.newSheet);
     // console.log(this.props);
@@ -174,7 +177,7 @@ export class Edit extends Component {
     return (
       <div>
         <div className="my-5 key__column ">
-          <div className="col-12 row ">
+          <div className="col-12 row flex-nowrap">
             <div className="flex-column col-10">
               <span className="text-muted keys__degrees mb-2">
                 Keys/Degrees
@@ -196,10 +199,10 @@ export class Edit extends Component {
             <div className="flex-column col-2">
               <span className="text-muted keys__degrees mb-2 ml-n4">Prev/Next</span>
               <div className="row mb-2 mt-2">
-                <button className="button__chords  flex-fill">
+                <button className="button__chords  flex-fill" onClick={e=>this.addInput("remove")}>
                   <img src={previous} alt="previous" width="16rem" />
                 </button>
-                <button className="button__chords  flex-fill">
+                <button className="button__chords  flex-fill" onClick={e=>this.addInput("add")}>
                   <img src={next} alt="next" width="16rem" />
                 </button>
               </div>
