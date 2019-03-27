@@ -18,18 +18,23 @@ export class NewSheet extends Component {
   value = value => {
     this.setState({ newsheet: value });
   };
-  action = value => {
-    this.setState({ action: value });
+  add = value => {
+    this.refs.call.addInput(value)
   };
+  remove = value =>{
+    console.log("test");
+    
+    this.refs.call.removeInput(value)
+  }
 
   render() {
     return (
       <div className="row flex-nowrap">
         <div className="col-4 new__sheet">
-          <Edit value={this.value} action={this.action} />
+          <Edit value={this.value} add={this.add} remove={this.remove}/>
         </div>
         <div className="col-8 view">
-          <View data={this.state.newsheet} action={this.state.action} />
+          <View data={this.state.newsheet} ref="call" />
         </div>
       </div>
     );
