@@ -1,7 +1,10 @@
+/* eslint-disable no-sequences */
 import React, { Component } from "react";
 import del from "../img/eraser.png";
 import previous from "../img/previous.png";
 import next from "../img/next.png";
+
+const CHORDS_FORMAT=[ ["Δ","7","#11"],["Δ","9","#11"],["Δ","7","#5"],["7","#9","#5"],["7","#9","b5"],[ "7","#9","#11"] ]
 
 export class Edit extends Component {
   state = {
@@ -36,21 +39,21 @@ export class Edit extends Component {
       "o",
       "ø",
       "sus",
-      " Δ",
+      "Δ",
       "-",
-      " Δ7",
+      "Δ7",
       "-7",
       "7",
       "7sus",
       "ø7",
       "o7",
-      " Δ9",
-      " Δ13",
+      "Δ9",
+      "Δ13",
       "6",
       "69",
-      " Δ7#11",
-      " Δ9#11",
-      " Δ7#5",
+      CHORDS_FORMAT[0,0],
+      CHORDS_FORMAT[0,1],
+      CHORDS_FORMAT[0,2],
       "-6",
       "-69",
       "-Δ7",
@@ -71,9 +74,9 @@ export class Edit extends Component {
       "9b5",
       "9#5",
       "7b13",
-      "7#9#5",
-      "7#9b5",
-      "7#9#11",
+      CHORDS_FORMAT[0,3],
+      CHORDS_FORMAT[0,4],
+      CHORDS_FORMAT[0,5],
       "7b9#11",
       "b9b5",
       "b9#5",
@@ -92,6 +95,7 @@ export class Edit extends Component {
       "7b13sus",
       "11"
     ],
+     
     newSheet: {
       title: "",
       key: "",

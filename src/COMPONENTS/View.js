@@ -28,12 +28,8 @@ export class View extends Component {
   };
 
   removeInput = (e, index) => {
-    let focused = document.hasFocus();
-    console.log(e);
     if (!index) {
       index = this.state.field.length - 1;
-      console.log("-1");
-      // let newField = this.state.field.pop();
       this.setState({
         field: this.state.field.filter((stay, i) => index !== i)
       });
