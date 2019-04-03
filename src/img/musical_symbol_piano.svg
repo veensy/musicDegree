@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'MUSICAL SYMBOL PIANO' (U+1D18F)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M65.25 338.625 Q65.25 352.5469 55.5469 364.6406 Q45.2812 377.2969 31.6406 377.2969 Q26.5781 377.2969 23.2031 374.4844 L17.7188 390.5156 Q23.7656 390.5156 23.7656 394.1719 Q23.7656 398.9531 20.25 398.9531 L-2.8125 398.9531 Q-5.0625 398.9531 -5.0625 396.2812 Q-5.0625 390.6562 1.9688 390.5156 L20.3906 335.6719 Q21.375 332.7188 21.375 329.4844 Q21.375 328.6406 20.8125 328.6406 Q17.8594 328.6406 15.3984 336.1641 Q12.9375 343.6875 10.9688 343.6875 L8.4375 343.6875 Q6.3281 343.6875 6.3281 340.875 Q6.3281 335.6719 11.9531 328.7109 Q17.5781 321.75 22.6406 321.75 Q31.6406 321.75 34.875 327.2344 Q41.625 321.75 48.7969 321.75 Q65.25 321.75 65.25 338.625 ZM50.3438 333 Q50.3438 328.6406 46.9688 328.6406 Q41.3438 328.6406 36 335.1094 Q35.7188 336.5156 26.1562 365.9062 Q27.2812 370.4062 31.5 370.4062 Q38.25 370.4062 44.7188 354.9375 Q50.3438 341.4375 50.3438 333 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

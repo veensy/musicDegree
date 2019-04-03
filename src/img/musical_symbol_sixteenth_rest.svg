@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'MUSICAL SYMBOL SIXTEENTH REST' (U+1D13F)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M72 281.8125 L34.5938 415.6875 L25.3125 415.6875 L43.4531 350.5781 Q31.5 356.4844 24.3281 356.4844 Q17.0156 356.4844 10.8984 351.2812 Q4.7812 346.0781 4.7812 338.7656 Q4.7812 332.5781 9.1406 328.2188 Q13.5 323.8594 19.6875 323.8594 Q25.875 323.8594 30.2344 328.2188 Q34.5938 332.5781 34.5938 338.7656 Q34.5938 342.4219 32.9062 345.6562 Q33.6094 346.2188 34.1719 346.2188 Q38.9531 346.2188 47.25 337.0781 L56.6719 303.3281 Q45 309.0938 37.4062 309.0938 Q30.0938 309.0938 23.9766 303.8906 Q17.8594 298.6875 17.8594 291.5156 Q17.8594 285.3281 22.2188 280.9688 Q26.5781 276.6094 32.7656 276.6094 Q38.9531 276.6094 43.3125 280.9688 Q47.6719 285.3281 47.6719 291.5156 Q47.6719 295.3125 46.125 298.2656 Q46.8281 298.8281 47.3906 298.8281 Q51.4688 298.8281 58.0781 292.2188 Q63.4219 286.875 66.5156 281.8125 L72 281.8125 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

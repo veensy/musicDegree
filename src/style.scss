@@ -54,21 +54,22 @@ body {
   min-height: 100vh !important;
   font-family: "Indie Flower", cursive;
   box-sizing: content-box;
+  overflow-y: scroll;
+  height:100vh;
 
   .key__column {
     outline: none;
     border: 1px solid #28a745 !important;
     border-radius: 0.25rem;
-    padding: 1vh;
     box-sizing: content-box;
 
-    .button__keyDeg {
-      width: rem;
-      border: 1px solid black !important;
-      background-color: #28a745;
-    }
+ .button__section__symbols {
+  border: 1px solid black !important;
+  background-color: #28a745;
+  font-size: 24px;
+ }
 
-    .button__chords {
+    .button__section {
       border: 1px solid black !important;
       background-color: #28a745;
     }

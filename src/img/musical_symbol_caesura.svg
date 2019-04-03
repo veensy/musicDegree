@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'MUSICAL SYMBOL CAESURA' (U+1D113)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M177.1875 276.6094 L92.3906 376.0312 L56.25 376.0312 L141.1875 276.6094 L177.1875 276.6094 ZM120.9375 276.6094 L36.1406 376.0312 L0 376.0312 L84.9375 276.6094 L120.9375 276.6094 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

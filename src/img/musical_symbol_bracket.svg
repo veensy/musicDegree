@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'MUSICAL SYMBOL BRACKET' (U+1D115)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M75.5156 416.1094 L69.8906 417.9375 Q58.9219 404.1562 42.6094 398.6719 Q33.0469 395.5781 9.4219 392.9062 L9.4219 246.6562 Q32.9062 243.9844 42.6094 240.75 Q58.9219 235.2656 69.8906 221.4844 L75.5156 223.4531 Q65.1094 244.6875 34.7344 259.875 L34.7344 379.8281 Q65.25 395.0156 75.5156 416.1094 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

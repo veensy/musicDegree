@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'MUSICAL SYMBOL REPEATED FIGURE-2' (U+1D10E)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M107.7188 351.4219 Q107.7188 356.4844 104.2031 360.2109 Q100.6875 363.9375 95.7656 363.9375 Q91.125 363.9375 87.4688 360.0703 Q83.8125 356.2031 83.8125 351.4219 Q83.8125 346.5 87.3281 342.9844 Q90.8438 339.4688 95.7656 339.4688 Q100.5469 339.4688 104.1328 343.0547 Q107.7188 346.6406 107.7188 351.4219 ZM120.9375 276.6094 L36.1406 376.0312 L0 376.0312 L84.9375 276.6094 L120.9375 276.6094 ZM36.9844 301.6406 Q36.9844 306.5625 33.4688 310.0781 Q29.9531 313.5938 25.0312 313.5938 Q20.5312 313.5938 16.875 309.8672 Q13.2188 306.1406 13.2188 301.6406 Q13.2188 297 16.8047 293.2031 Q20.3906 289.4062 25.0312 289.4062 Q29.9531 289.4062 33.4688 293.0625 Q36.9844 296.7188 36.9844 301.6406 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

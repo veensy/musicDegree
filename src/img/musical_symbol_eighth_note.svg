@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'MUSICAL SYMBOL EIGHTH NOTE' (U+1D160)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M43.3125 379.125 Q39.375 379.125 34.1719 378.1406 Q28.9688 377.1562 25.7344 373.9219 Q22.5 370.6875 22.5 367.3125 Q22.5 362.25 26.4375 355.3594 Q30.375 348.4688 38.25 344.6719 Q46.125 340.875 50.625 340.875 Q54 340.875 57.0938 341.4375 Q60.1875 342 63.8438 343.6875 Q67.5 345.375 70.875 347.9062 L70.875 194.3438 L78.1875 194.3438 L106.3125 222.4688 Q112.5 228.6562 116.4375 237.0938 Q120.375 245.5312 120.375 253.9688 Q120.375 260.1562 117.7031 266.2031 Q115.0312 272.25 109.6875 278.1562 L101.25 286.5938 L97.875 284.9062 L102.9375 275.0625 Q106.3125 268.0312 107.1562 262.4062 Q108 256.7812 108 253.4062 Q108 247.7812 104.625 241.0312 Q101.25 234.2812 95.625 229.7812 L78.1875 217.9688 L78.1875 360.5625 L69.75 369 Q64.6875 373.7812 58.2188 376.4531 Q51.75 379.125 43.3125 379.125 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

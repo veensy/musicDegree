@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'MUSICAL SYMBOL EIGHTH REST' (U+1D13E)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M58.7812 329.0625 L34.5938 415.6875 L25.3125 415.6875 L43.4531 350.5781 Q31.5 356.4844 24.3281 356.4844 Q17.0156 356.4844 10.8984 351.2812 Q4.7812 346.0781 4.7812 338.7656 Q4.7812 332.5781 9.1406 328.2188 Q13.5 323.8594 19.6875 323.8594 Q25.875 323.8594 30.2344 328.2188 Q34.5938 332.5781 34.5938 338.7656 Q34.5938 342.4219 32.9062 345.6562 Q33.6094 346.2188 34.1719 346.2188 Q38.25 346.2188 44.8594 339.4688 Q50.2031 334.125 53.2969 329.0625 L58.7812 329.0625 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

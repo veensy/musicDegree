@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'MUSICAL SYMBOL QUARTER NOTE' (U+1D15F)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M32.0625 379.125 Q28.125 379.125 22.9219 378.1406 Q17.7188 377.1562 14.4844 373.9219 Q11.25 370.6875 11.25 367.3125 Q11.25 362.25 15.1875 355.3594 Q19.125 348.4688 27 344.6719 Q34.875 340.875 39.375 340.875 Q42.75 340.875 45.8438 341.4375 Q48.9375 342 52.5938 343.6875 Q56.25 345.375 59.625 347.9062 L59.625 194.3438 L66.9375 194.3438 L66.9375 360.5625 L58.5 369 Q53.4375 373.7812 46.9688 376.4531 Q40.5 379.125 32.0625 379.125 Z" stroke="none" />
+    </g>
+  </g>
+</svg>
